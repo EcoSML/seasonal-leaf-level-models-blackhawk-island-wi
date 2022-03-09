@@ -1,0 +1,8 @@
+{
+  "id": "632453c0-c20f-4014-a634-3c8ea8a5f14e",
+  "name": "seasonal-leaf-level-models-blackhawk-island-wi",
+  "overview": "Leaf-level PLSR models for estimating foliar traits from reflectance spectra",
+  "organization": "uw-enspec",
+  "language": "python",
+  "owner": "adamc"
+}
